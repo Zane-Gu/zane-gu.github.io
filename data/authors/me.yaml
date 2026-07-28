@@ -2,14 +2,14 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Zhenyue Gu
+  given: Zhenyue
+  family: Gu
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
+  - PhDx
   - MIEEE
 status:
   icon: "☕️"
@@ -40,10 +40,9 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+  - Multimodal Perception
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Machine Learning
 
 education:
   - degree: PhD Computer Science
@@ -101,16 +100,16 @@ skills:
         level: 4
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
 
 awards:
   - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
+    awarder: ICPRAM
+    date: "2024-2-26"
     summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy

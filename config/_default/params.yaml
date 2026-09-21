@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Zhenyue Gu"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -21,11 +21,10 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Zhenyue Gu — incoming PhD student in Computer Science at Université Paris-Saclay and the University of Exeter. Research in embodied AI, multimodal perception, and computational cognitive modeling."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -240,7 +239,7 @@ hugoblox:
   # Regional formatting preferences
   # ────────────────────────────────────────────────────────────────────────────
   locale:
-    date_format: "Jan 2, 2006" # Go time format
+    date_format: "Jan 2006" # Month precision matches the supplied CV.
     time_format: "3:04 PM"
     address_format: en-us
 

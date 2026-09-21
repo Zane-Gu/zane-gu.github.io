@@ -5,111 +5,58 @@ name:
   display: Zhenyue Gu
   given: Zhenyue
   family: Gu
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhDx
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+role: Incoming Ph.D. Student in Computer Science
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am an incoming Ph.D. student in Computer Science in the double-degree programme between Université Paris-Saclay and the University of Exeter, starting in October 2026. I will be supervised by Dr [Céline Clavel](https://clavelcel.wixsite.com/monsite) and Professor [Nicolas Sabouret](https://perso.limsi.fr/sabouret/) at Université Paris-Saclay, and Dr [Xingchen Zhang](https://xingchenzhang.github.io/) and Professor [Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes) at the University of Exeter. My research interests lie in embodied AI, multimodal perception, and computational cognitive modeling.
 
+  I currently work as an AI Engineer at China National Petroleum Corporation. I received my MSc in Applied Machine Learning with Distinction from Imperial College London, where I conducted research at [MatchLab](https://www.imperial.ac.uk/matchlab/) under Professor [Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk). My work on fisheye UAV obstacle detection led to AirEyeSeg, which received the [Best Student Paper Award at ICPRAM 2024](https://icpram.scitevents.org/PreviousAwards.aspx#2024). I earned my BEng in Mechatronics Engineering from Tianjin University of Technology, supervised by Professor [Mian Zhang](https://me.tjut.edu.cn/info/1060/1786.htm).
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: Université Paris-Saclay
+    url: https://www.universite-paris-saclay.fr/en
+  - name: University of Exeter
+    url: https://www.exeter.ac.uk/
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: mailto:zhenyue.gu22@alumni.imperial.ac.uk
+    label: Email
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en
+    label: Google Scholar
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+    url: https://orcid.org/0000-0002-5182-1226
+    label: ORCID
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/zhenyue-gu
+    label: LinkedIn
+  - icon: brands/github
+    url: https://github.com/Zane-Gu
+    label: GitHub
 interests:
+  - Embodied AI
   - Multimodal Perception
-  - Computer Vision
-  - Machine Learning
-
+  - Computational Cognitive Modeling
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Computer Science (incoming)
+    institution: Université Paris-Saclay & University of Exeter
+    year: Starting October 2026
+    start: 2026-10-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
+      Starting October 2026. Supervisors: Dr [Céline Clavel](https://clavelcel.wixsite.com/monsite), Professor [Nicolas Sabouret](https://perso.limsi.fr/sabouret/), Dr [Xingchen Zhang](https://xingchenzhang.github.io/), and Professor [Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes).
+  - degree: MSc in Applied Machine Learning
+    institution: Imperial College London
+    year: 2022–2023
+    start: 2022-10-01
+    end: 2023-11-30
+    summary: |
+      Graduated with Distinction. Conducted research at [MatchLab](https://www.imperial.ac.uk/matchlab/) under Professor [Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk). AirEyeSeg received the [Best Student Paper Award at ICPRAM 2024](https://icpram.scitevents.org/PreviousAwards.aspx#2024).
+  - degree: BEng in Mechatronics Engineering
+    institution: Tianjin University of Technology
+    year: 2018–2022
+    start: 2018-09-01
+    end: 2022-06-30
+    summary: |
+      Average: 90.56%; ranked 4th of 112. Supervised by Professor [Mian Zhang](https://me.tjut.edu.cn/info/1060/1786.htm). Received the Best Undergraduate Thesis Award.
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: Chinese
-    level: 5
-    label: Native
-  - name: English
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: ICPRAM
-    date: "2024-2-26"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - role: AI Engineer
+    org: China National Petroleum Corporation
+    start: 2024-07-01

@@ -7,14 +7,16 @@ name:
   family: Gu
 role: Incoming Ph.D. Student in Computer Science
 bio: |
-  I am an incoming Ph.D. student in Computer Science in the double-degree programme between Université Paris-Saclay and the University of Exeter, starting in October 2026. I will be supervised by Dr [Céline Clavel](https://clavelcel.wixsite.com/monsite) and Professor [Nicolas Sabouret](https://perso.limsi.fr/sabouret/) at Université Paris-Saclay, and Dr [Xingchen Zhang](https://xingchenzhang.github.io/) and Professor [Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes) at the University of Exeter. My research interests lie in embodied AI, multimodal perception, and computational cognitive modeling.
+  I am an incoming PhD student in Computer Science on the double-degree programme jointly offered by the University of Exeter and Université Paris-Saclay, beginning in October 2026 with full funding through an ADI studentship. I will be jointly supervised by Dr [Xingchen Zhang](https://xingchenzhang.github.io/) and Professor [Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes) at the University of Exeter, and Dr [Céline Clavel](https://clavelcel.wixsite.com/monsite) and Professor [Nicolas Sabouret](https://perso.limsi.fr/sabouret/) at Université Paris-Saclay. My research interests include embodied AI, multimodal perception, and computational cognitive modelling.
 
-  I currently work as an AI Engineer at China National Petroleum Corporation. I received my MSc in Applied Machine Learning with Distinction from Imperial College London, where I conducted research at [MatchLab](https://www.imperial.ac.uk/matchlab/) under Professor [Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk). My work on fisheye UAV obstacle detection led to AirEyeSeg, which received the [Best Student Paper Award at ICPRAM 2024](https://icpram.scitevents.org/PreviousAwards.aspx#2024). I earned my BEng in Mechatronics Engineering from Tianjin University of Technology, supervised by Professor [Mian Zhang](https://me.tjut.edu.cn/info/1060/1786.htm).
+  I currently work as an AI Engineer at China National Petroleum Corporation. I received my MSc in Applied Machine Learning with Distinction from Imperial College London, where I conducted research at [MatchLab](https://www.imperial.ac.uk/matchlab/) under the supervision of Professor [Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk). My research on obstacle detection for fisheye-camera-equipped UAVs resulted in AirEyeSeg, which received the [Best Student Paper Award at ICPRAM 2024](https://icpram.scitevents.org/PreviousAwards.aspx#2024). I earned my BEng in Mechatronic Engineering from Tianjin University of Technology, where I was fortunate to be supervised by Professor [Mian Zhang](https://me.tjut.edu.cn/info/1060/1786.htm).
+
 affiliations:
-  - name: Université Paris-Saclay
-    url: https://www.universite-paris-saclay.fr/en
   - name: University of Exeter
     url: https://www.exeter.ac.uk/
+  - name: Université Paris-Saclay
+    url: https://www.universite-paris-saclay.fr/en
+
 links:
   - icon: at-symbol
     url: mailto:zhenyue.gu22@alumni.imperial.ac.uk
@@ -39,24 +41,24 @@ education:
   - degree: PhD in Computer Science (incoming)
     institution: Université Paris-Saclay & University of Exeter
     year: Starting October 2026
-    start: 2026-10-01
+    start: 2026-10
     summary: |
-      Starting October 2026. Supervisors: Dr [Céline Clavel](https://clavelcel.wixsite.com/monsite), Professor [Nicolas Sabouret](https://perso.limsi.fr/sabouret/), Dr [Xingchen Zhang](https://xingchenzhang.github.io/), and Professor [Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes).
+      Starting October 2026. Supervisors: Dr [Xingchen Zhang](https://xingchenzhang.github.io/), Dr [Céline Clavel](https://clavelcel.wixsite.com/monsite), Professor [Nicolas Sabouret](https://perso.limsi.fr/sabouret/), and Professor [Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes).
   - degree: MSc in Applied Machine Learning
     institution: Imperial College London
     year: 2022–2023
-    start: 2022-10-01
-    end: 2023-11-30
+    start: 2022-10
+    end: 2023-11
     summary: |
       Graduated with Distinction. Conducted research at [MatchLab](https://www.imperial.ac.uk/matchlab/) under Professor [Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk). AirEyeSeg received the [Best Student Paper Award at ICPRAM 2024](https://icpram.scitevents.org/PreviousAwards.aspx#2024).
   - degree: BEng in Mechatronics Engineering
     institution: Tianjin University of Technology
     year: 2018–2022
-    start: 2018-09-01
-    end: 2022-06-30
+    start: 2018-09
+    end: 2022-06
     summary: |
       Average: 90.56%; ranked 4th of 112. Supervised by Professor [Mian Zhang](https://me.tjut.edu.cn/info/1060/1786.htm). Received the Best Undergraduate Thesis Award.
 experience:
   - role: AI Engineer
     org: China National Petroleum Corporation
-    start: 2024-07-01
+    start: 2024-08

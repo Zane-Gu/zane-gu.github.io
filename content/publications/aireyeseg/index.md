@@ -14,6 +14,9 @@ publication:
 peer_reviewed: true
 featured: true
 summary: "Fisheye UAV obstacle detection using segmentation-based training and teacher–student knowledge distillation."
+image:
+  alt_text: "Schematic fisheye UAV view, segmentation masks, and object detections"
+  caption: "Original schematic of the AirEyeSeg workflow; not an experimental image."
 hugoblox:
   ids:
     doi: "10.5220/0012388600003654"

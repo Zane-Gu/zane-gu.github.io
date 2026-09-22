@@ -25,7 +25,7 @@ sections:
     content:
       title: Research
       text: |
-        My research interests span embodied AI, multimodal perception, and computational cognitive modeling. My previous work has explored computer vision for UAV obstacle detection, motion-based handwriting recognition, and machine learning for mechanical fault diagnosis.
+        My research interests span embodied AI, multimodal perception, and computational cognitive modeling. My previous work has explored computer vision for UAV obstacle detection, and machine learning for machinery reliability analysis.
 
         [Explore my research projects](/projects/).
     design:

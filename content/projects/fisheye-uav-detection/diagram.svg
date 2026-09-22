@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Fisheye UAV obstacle detection</title>
+  <desc id="desc">An original schematic showing a distorted aerial view transformed into segmentation masks and obstacle detections.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0f2745"/>
+      <stop offset="1" stop-color="#17445d"/>
+    </linearGradient>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#79c9d5"/>
+      <stop offset="1" stop-color="#d1edf0"/>
+    </linearGradient>
+    <linearGradient id="road" x2="0" y2="1">
+      <stop stop-color="#4f7483"/>
+      <stop offset="1" stop-color="#173345"/>
+    </linearGradient>
+    <clipPath id="lens"><circle cx="276" cy="251" r="175"/></clipPath>
+  </defs>
+  <rect width="960" height="540" fill="url(#background)"/>
+  <path d="M0 83H960M0 457H960" stroke="#5ec9d1" stroke-opacity=".14"/>
+  <g fill="none" stroke="#8bdbe0" stroke-opacity=".12">
+    <path d="M30 24H930V516H30z"/>
+    <path d="M495 24V516"/>
+  </g>
+  <text x="80" y="44" fill="#bce7e7" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="3">WIDE-ANGLE INPUT</text>
+  <text x="551" y="44" fill="#bce7e7" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="3">OBSTACLE MASKS</text>
+  <circle cx="276" cy="251" r="190" fill="#071c32" stroke="#8bdbe0" stroke-width="5"/>
+  <g clip-path="url(#lens)">
+    <rect x="101" y="76" width="350" height="350" fill="url(#sky)"/>
+    <path d="M90 240Q176 190 270 214T462 241V432H90z" fill="#7ca595"/>
+    <path d="M90 235Q182 185 276 220T462 239" fill="none" stroke="#d8e7d2" stroke-width="12" opacity=".7"/>
+    <path d="M230 212Q281 222 315 210L438 438H115z" fill="url(#road)"/>
+    <path d="M270 219L276 431M225 228L148 425M318 225L404 423" stroke="#d9e2d5" stroke-width="5" stroke-dasharray="22 20" opacity=".8"/>
+    <path d="M100 217Q172 193 213 207L193 279Q145 269 105 288z" fill="#335c61"/>
+    <path d="M352 202Q407 177 452 201V288Q403 266 377 270z" fill="#315b69"/>
+    <g fill="#dbede6">
+      <rect x="180" y="248" width="38" height="54" rx="8" transform="rotate(-18 199 275)"/>
+      <rect x="331" y="267" width="44" height="60" rx="8" transform="rotate(13 353 297)"/>
+    </g>
+    <path d="M117 130Q278 190 437 130M111 351Q276 294 442 351" fill="none" stroke="#d7ffff" stroke-opacity=".28" stroke-width="3"/>
+  </g>
+  <path d="M191 240l55-24 23 12-58 29zM316 275l53-13 29 18-63 13z" fill="none" stroke="#ffe5a1" stroke-width="4"/>
+  <path d="M490 249h50m-14-14 15 14-15 14" fill="none" stroke="#88e3da" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="560" y="103" width="322" height="303" rx="25" fill="#092a40" stroke="#4aa6ae" stroke-width="3"/>
+  <path d="M576 255Q625 225 662 250T749 250T864 230V391H576z" fill="#184960"/>
+  <path d="M600 336c30-57 52-43 82-36 27 8 35 37 25 59-18 32-61 29-83 15-20-12-32-20-24-38z" fill="#5edbbd" fill-opacity=".75"/>
+  <path d="M747 286c29-31 68-17 86 11 15 22 7 52-15 67-29 19-64 8-77-19-10-21-9-43 6-59z" fill="#93c8ff" fill-opacity=".8"/>
+  <rect x="590" y="285" width="128" height="102" rx="12" fill="none" stroke="#b8ffbd" stroke-width="5"/>
+  <rect x="735" y="268" width="112" height="113" rx="12" fill="none" stroke="#b6d9ff" stroke-width="5"/>
+  <path d="M582 172h70m-70 17h48m164-18h65m-65 17h43" stroke="#8dd9dc" stroke-opacity=".6" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="1" fill="#dceff2">
+    <text x="99" y="487">FISHEYE DATA</text>
+    <text x="384" y="487">SAM TEACHER</text>
+    <text x="703" y="487">YOLOv8 STUDENT</text>
+  </g>
+  <path d="M303 479h58m-14-11 14 11-14 11m257-11h72m-14-11 14 11-14 11" fill="none" stroke="#76d9d3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

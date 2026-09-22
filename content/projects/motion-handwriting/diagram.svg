@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Motion-based handwriting recognition</title>
+  <desc id="desc">An original schematic showing a sensor pen, inertial motion signals, and a recognized lowercase letter.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#17233f"/>
+      <stop offset="1" stop-color="#294168"/>
+    </linearGradient>
+    <linearGradient id="pen" x2="1" y2="0">
+      <stop stop-color="#d4e9f4"/>
+      <stop offset=".52" stop-color="#f2f9fd"/>
+      <stop offset="1" stop-color="#a4c4d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#background)"/>
+  <g fill="none" stroke="#93b8e3" stroke-opacity=".15">
+    <path d="M43 64H917V475H43zM43 201H917M43 338H917M335 64V475M625 64V475"/>
+    <path d="M76 111H882M76 384H882" stroke-dasharray="7 15"/>
+  </g>
+  <text x="72" y="58" fill="#b5d1f0" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3">MOTION AS INPUT</text>
+  <path d="M93 398c22-56 48-108 102-112 40-3 58 27 42 55-18 30-62 10-65-20-5-43 64-117 113-74 31 26 12 75-19 94-34 21-60 27-45 53 16 29 72 6 101-20" fill="none" stroke="#bd9bff" stroke-opacity=".28" stroke-width="21" stroke-linecap="round"/>
+  <path d="M93 398c22-56 48-108 102-112 40-3 58 27 42 55-18 30-62 10-65-20-5-43 64-117 113-74 31 26 12 75-19 94-34 21-60 27-45 53 16 29 72 6 101-20" fill="none" stroke="#e2cfff" stroke-width="7" stroke-linecap="round"/>
+  <g transform="rotate(31 236 211)">
+    <rect x="212" y="75" width="48" height="268" rx="20" fill="url(#pen)"/>
+    <rect x="212" y="75" width="48" height="42" rx="15" fill="#6e9dbb"/>
+    <rect x="221" y="141" width="30" height="57" rx="8" fill="#6c6ace"/>
+    <path d="M226 153h18m-18 9h18m-18 9h18m-18 9h18" stroke="#d9d3ff" stroke-width="3"/>
+    <circle cx="236" cy="236" r="9" fill="#6f77d8"/>
+    <path d="M218 337h36l-18 38z" fill="#9fc4d6"/>
+  </g>
+  <circle cx="390" cy="270" r="17" fill="#b1a2ff"/>
+  <path d="M414 270h38m-13-12 13 12-13 12" fill="none" stroke="#b1a2ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="472" y="139" width="198" height="262" rx="20" fill="#142d4d" stroke="#7284d8" stroke-width="3"/>
+  <text x="496" y="176" fill="#b9c8f2" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">IMU SIGNAL</text>
+  <g stroke="#7e9abd" stroke-opacity=".35" stroke-width="2"><path d="M492 220H650M492 270H650M492 320H650"/></g>
+  <path d="M492 236l17-19 16 34 15-44 18 28 15-17 17 34 15-22 18 8 27-22" fill="none" stroke="#93e3e0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M492 321l15-13 19 22 16-31 15 12 17-36 18 38 16-14 18 13 24-27" fill="none" stroke="#c5a7ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M688 270h34m-13-12 13 12-13 12" fill="none" stroke="#b1a2ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="741" y="139" width="158" height="262" rx="20" fill="#122c4d" stroke="#7284d8" stroke-width="3"/>
+  <text x="762" y="176" fill="#b9c8f2" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">LETTER</text>
+  <text x="788" y="334" fill="#f3e8ff" font-family="Georgia,serif" font-size="176" font-style="italic">a</text>
+  <g fill="#d7e2fa" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="1">
+    <text x="88" y="484">SENSOR PEN</text>
+    <text x="505" y="484">TEMPORAL FEATURES</text>
+    <text x="750" y="484">CLASSIFICATION</text>
+  </g>
+</svg>

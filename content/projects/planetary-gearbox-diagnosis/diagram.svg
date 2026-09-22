@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Planetary gearbox fault diagnosis</title>
+  <desc id="desc">An original schematic showing a planetary gear set and adaptively selected vibration-spectrum sidebands.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#112a3d"/>
+      <stop offset="1" stop-color="#1c4c54"/>
+    </linearGradient>
+    <linearGradient id="ring" x2="0" y2="1">
+      <stop stop-color="#d9eddf"/>
+      <stop offset="1" stop-color="#8ab7ac"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#background)"/>
+  <path d="M43 68H917V463H43z" fill="none" stroke="#94d5c3" stroke-opacity=".23"/>
+  <text x="72" y="58" fill="#c8e8d5" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3">VIBRATION-BASED DIAGNOSIS</text>
+  <g transform="translate(283 264)">
+    <circle r="183" fill="#102e42" stroke="url(#ring)" stroke-width="18"/>
+    <circle r="143" fill="none" stroke="#83b5a9" stroke-width="6" stroke-dasharray="8 9"/>
+    <circle r="112" fill="none" stroke="#66a399" stroke-width="3"/>
+    <g fill="#b9ded1" stroke="#0c2b3a" stroke-width="8">
+      <circle cx="0" cy="-105" r="49"/>
+      <circle cx="99" cy="35" r="49"/>
+      <circle cx="-99" cy="35" r="49"/>
+    </g>
+    <g fill="#315c63" stroke="#cde9db" stroke-width="5">
+      <circle cx="0" cy="-105" r="20"/>
+      <circle cx="99" cy="35" r="20"/>
+      <circle cx="-99" cy="35" r="20"/>
+    </g>
+    <circle r="63" fill="#e4efd9" stroke="#19465a" stroke-width="9"/>
+    <circle r="24" fill="#2a6767"/>
+    <path d="M-14-175h28M-14 175h28M-175-14v28M175-14v28" stroke="#f2d28f" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <path d="M486 263h52m-13-12 13 12-13 12" fill="none" stroke="#91e0c8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="558" y="108" width="344" height="309" rx="22" fill="#102f43" stroke="#5da698" stroke-width="3"/>
+  <text x="580" y="148" fill="#b7dcd2" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="2">SIDEBAND SPECTRUM</text>
+  <path d="M586 354H879M588 189V355" fill="none" stroke="#87b8b0" stroke-width="3"/>
+  <g fill="#4b8d91">
+    <rect x="602" y="310" width="12" height="44" rx="3"/>
+    <rect x="625" y="290" width="12" height="64" rx="3"/>
+    <rect x="648" y="320" width="12" height="34" rx="3"/>
+    <rect x="673" y="253" width="12" height="101" rx="3"/>
+    <rect x="697" y="300" width="12" height="54" rx="3"/>
+    <rect x="743" y="294" width="12" height="60" rx="3"/>
+    <rect x="768" y="253" width="12" height="101" rx="3"/>
+    <rect x="793" y="316" width="12" height="38" rx="3"/>
+    <rect x="817" y="292" width="12" height="62" rx="3"/>
+    <rect x="843" y="314" width="12" height="40" rx="3"/>
+  </g>
+  <rect x="718" y="206" width="16" height="148" rx="3" fill="#dbeed9"/>
+  <rect x="672" y="250" width="14" height="104" rx="3" fill="#f0c977"/>
+  <rect x="767" y="250" width="14" height="104" rx="3" fill="#f0c977"/>
+  <path d="M657 371h45m-44-10v20m43-20v20M753 371h42m-42-10v20m42-20v20" fill="none" stroke="#f0c977" stroke-width="3"/>
+  <g fill="#d9e9df" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="1">
+    <text x="139" y="495">PLANETARY GEAR SET</text>
+    <text x="589" y="495">ADAPTIVE ENERGY RATIO</text>
+  </g>
+</svg>

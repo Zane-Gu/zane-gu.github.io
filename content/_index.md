@@ -46,8 +46,8 @@ sections:
     content:
       title: Publications
       text: |
-        View all [publications](/publications/) or visit my [Google Scholar profile](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en).\
-        (\* denotes the corresponding author.)
+        View all [publications](/publications/) or visit my [Google Scholar](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en).
+        <span style="display:block; text-align:center;">(* denotes the corresponding author.)</span>
       count: 6
       order: desc
       filters:

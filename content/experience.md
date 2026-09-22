@@ -13,7 +13,7 @@ sections:
 
         **Université Paris-Saclay & University of Exeter · Starting October 2026**
 
-        Supervisors: Dr [Céline Clavel](https://clavelcel.wixsite.com/monsite), Professor [Nicolas Sabouret](https://perso.limsi.fr/sabouret/), Dr [Xingchen Zhang](https://xingchenzhang.github.io/), and Professor [Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes).
+        Supervisors: [Dr Céline Clavel](https://clavelcel.wixsite.com/monsite), [Professor Nicolas Sabouret](https://perso.limsi.fr/sabouret/), [Dr Xingchen Zhang](https://xingchenzhang.github.io/), and [Professor Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes).
 
         Research interests: embodied AI, multimodal perception, and computational cognitive modeling.
 
@@ -21,13 +21,13 @@ sections:
 
         **Imperial College London · October 2022–November 2023**
 
-        Graduated with Distinction. Conducted research at [MatchLab](https://www.imperial.ac.uk/matchlab/) under Professor [Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk). AirEyeSeg received the [Best Student Paper Award at ICPRAM 2024](https://icpram.scitevents.org/PreviousAwards.aspx#2024).
+        Graduated with Distinction. Conducted research at [MatchLab](https://www.imperial.ac.uk/matchlab/) under [Professor Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk). AirEyeSeg received the [ICPRAM 2024 Best Student Paper Award](https://icpram.scitevents.org/PreviousAwards.aspx#2024).
 
         ### BEng in Mechatronics Engineering
 
         **Tianjin University of Technology · September 2018–June 2022**
 
-        Average: 90.56%; ranked 4th of 112. Supervised by Professor [Mian Zhang](https://me.tjut.edu.cn/info/1060/1786.htm). Received the Best Undergraduate Thesis Award.
+        Average: 90.56%; ranked 4th of 112. Supervised by [Professor Mian Zhang](https://me.tjut.edu.cn/info/1060/1786.htm). Received the Best Undergraduate Thesis Award.
     design:
       columns: '1'
   - block: markdown

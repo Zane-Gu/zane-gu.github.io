@@ -1,0 +1,4 @@
+#papers .max-w-prose p a {
+  text-decoration-line: underline;
+  text-underline-offset: 0.15em;
+}

@@ -9,6 +9,7 @@ authors:
   - "Wei Ai"
   - "Biao Guo"
   - "Hongwei Zhang"
+corresponding_authors: ["me"]
 date: '2024-11-29'
 publication_types: ['paper-conference']
 publication:

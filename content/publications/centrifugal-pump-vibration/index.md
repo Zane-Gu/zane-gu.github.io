@@ -9,6 +9,7 @@ authors:
   - "Zhiyuan Wang"
   - "Zhenlong Pei"
   - "Yiqiao Wang"
+corresponding_authors: ["Mian Zhang"]
 date: '2021-10-15'
 publication_types: ['paper-conference']
 publication:

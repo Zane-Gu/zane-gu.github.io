@@ -4,6 +4,7 @@ authors:
   - "me"
   - "Benedikt Kolbeinsson"
   - "Krystian Mikolajczyk"
+corresponding_authors: ["me"]
 date: '2024-02-01'
 publication_types: ['paper-conference']
 publication:

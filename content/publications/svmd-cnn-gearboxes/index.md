@@ -7,6 +7,7 @@ authors:
   - "Yunzhe Liu"
   - "Mian Zhang"
   - "Yuhao Song"
+corresponding_authors: ["Yuhao Song"]
 date: '2025-10-10'
 publication_types: ['paper-conference']
 publication:

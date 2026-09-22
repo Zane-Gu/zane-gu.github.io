@@ -45,7 +45,7 @@ sections:
     id: papers
     content:
       title: Publications
-      text: '[View all publications](/publications/) or visit my [Google Scholar profile](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en).'
+      text: '[View all publications](/publications/) or visit my [Google Scholar profile](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en). \* denotes the corresponding author.'
       count: 6
       order: desc
       filters:

@@ -9,6 +9,7 @@ authors:
   - "Songsong Zhu"
   - "Mengxiong Zhao"
   - "me"
+corresponding_authors: ["Bin Li"]
 date: '2025-12-01'
 publication_types: ['article-journal']
 publication:
